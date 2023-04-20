@@ -8,6 +8,7 @@
   "parcelClean": [
     "docs/js",
     "docs/scss",
+    "docs/css",
     "*.html",
     "*.js",
     "!build.js"
